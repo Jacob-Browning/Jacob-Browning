@@ -1,1 +1,6 @@
--penis
+- Python
+- HTML
+- Java
+- C
+- Kotlin
+- CSS
