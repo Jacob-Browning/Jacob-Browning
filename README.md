@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,C,java" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,c,java" />
   <img src="https://skillicons.dev/icons?i=html,css,postgresql" />
 </p>
 
