@@ -2,7 +2,7 @@
     Hello! I'm Jacob
 </h1>
 
-### A multi-language developer interested in software engeneering
+### A multi-language developer interested in software engineering
 ## 🛠️ Languages and Tools
 
 <br>
