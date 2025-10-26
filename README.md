@@ -2,7 +2,8 @@
     Hello! I'm Jacob Browning
 </h1>
 
-### A multilanguage developer interetsed in software engenering
+### A multi-language developer interested in software engeneering
+Languages:
 - Python
 - Kotlin
 - C
@@ -11,5 +12,5 @@
 - CSS
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/Jacob-Browning/count.svg" alt="Visitor's Count" />
 </div>
