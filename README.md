@@ -8,9 +8,9 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,c,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,c,java" />
     <br>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,flask,xml" />
+  <img src="https://skillicons.dev/icons?i=html,css,postgresql,mysql,flask" />
 </p>
 
 <hr>
