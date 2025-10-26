@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hello! I am Jscob Browning
+    Hello! I am Jacob Browning
 </h1>
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
