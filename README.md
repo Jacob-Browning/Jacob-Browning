@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,kotlin,c,java,html,css" />
     <br>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,flask" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,flask,git,docker" />
 </p>
 
 <hr>
