@@ -1,3 +1,8 @@
+<h1 align="center">
+    Hi+There!+👋;+I'm+Chijioke+Okorji!;/
+</h1>
+
+### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
 - Python
 - Kotlin
 - C
