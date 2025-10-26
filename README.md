@@ -1,8 +1,8 @@
 <h1 align="center">
-    Hello! I am Jacob Browning
+    Hello! I'm Jacob Browning
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+### A multilanguage developer interetsed in software engenering
 - Python
 - Kotlin
 - C
