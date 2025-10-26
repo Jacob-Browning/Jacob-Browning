@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi+There!+👋;+I'm+Chijioke+Okorji!;/
+    Hello! I am Jscob Browning
 </h1>
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
