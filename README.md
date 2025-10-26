@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hello! I'm Jacob Browning
+    Hello! I'm Jacob
 </h1>
 
 ### A multi-language developer interested in software engeneering
